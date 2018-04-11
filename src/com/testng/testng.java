@@ -48,6 +48,7 @@ public class testng {
 		{
 			System.out.println("true");
 	}
+	}
 	
 	@AfterMethod
 	public void postcondition()
