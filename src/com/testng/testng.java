@@ -44,6 +44,9 @@ public class testng {
 	public void testmethod2()
 	{
 		boolean mail = driver.findElement(By.linkText("Gmail")).isDisplayed();
+		if(true)
+		{
+			System.out.println("true");
 	}
 	
 	@AfterMethod
