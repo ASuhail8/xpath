@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12328" started-at="2018-04-11T08:51:13Z" finished-at="2018-04-11T08:51:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12328" started-at="2018-04-11T08:51:13Z" finished-at="2018-04-11T08:51:26Z">
+      <class name="com.testng.testng">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.testng.testng@53b32d7]" name="precondition" is-config="true" duration-ms="5969" started-at="2018-04-11T08:51:13Z" finished-at="2018-04-11T08:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.testng.testng@53b32d7]" name="testmethod2" duration-ms="93" started-at="2018-04-11T08:51:19Z" finished-at="2018-04-11T08:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod2 -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:com.testng.testng@53b32d7]" name="postcondition" is-config="true" duration-ms="634" started-at="2018-04-11T08:51:19Z" finished-at="2018-04-11T08:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:com.testng.testng@53b32d7]" name="precondition" is-config="true" duration-ms="4925" started-at="2018-04-11T08:51:20Z" finished-at="2018-04-11T08:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="testmethod1()[pri:1, instance:com.testng.testng@53b32d7]" name="testmethod1" duration-ms="62" started-at="2018-04-11T08:51:25Z" finished-at="2018-04-11T08:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod1 -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:com.testng.testng@53b32d7]" name="postcondition" is-config="true" duration-ms="620" started-at="2018-04-11T08:51:25Z" finished-at="2018-04-11T08:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.testng.testng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
