@@ -51,6 +51,7 @@ public class testng {
 	public void postcondition()
 	{
 		driver.quit();
+		driver.close();
 	}
 }
 
